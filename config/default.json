@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://PREETAM:ABCDE456@cluster0.nnpp2.mongodb.net/mern?retryWrites=true&w=majority"
+}
